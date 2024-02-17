@@ -1,0 +1,10 @@
+.w3-display-container {
+    /* Set the width of the container */
+    width: 300px; /* Or any desired width */
+}
+
+.w3-display-container img {
+    /* Make the image fit the width of its container */
+    width: 100%;
+    height: auto; /* Maintain aspect ratio */
+}

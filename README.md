@@ -1,1 +1,1 @@
-![image](https://github.com/eayandacian/Resume/assets/118970350/5d68cbd7-611b-4d17-826e-dc2ebdf6158c)
+![image](https://github.com/eayandacian/Resume/assets/118970350/76b5e903-64f4-4820-a3b6-3c6cb265f835)
